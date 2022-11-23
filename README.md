@@ -1,7 +1,5 @@
 # 💫 About Me:
 🔭 I'm currently studying to become a software developer, in my final year<br>🌱 I’m currently learning Web Design<br>💬 Shoot me an E-mail or add me on LinkedIn<br>
-
-<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="bakuganin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ee.linkedin.com/in/bakuganin?trk=profile-badge">Jegor Bakunin</a></div>
               
 
 ## 🌐 Socials:

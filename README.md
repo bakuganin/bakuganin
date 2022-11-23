@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently studying to become a software developer, in my final year<br>🌱 I’m currently learning Web Design<br>💬 Shoot me an E-mail or add me on LinkedIn<br>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="bakuganin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ee.linkedin.com/in/bakuganin?trk=profile-badge">Jegor Bakunin</a></div>
+              
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Bakugan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Егор-Бакунин/100006377208870/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunshineillicit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jegor-bakunin-9b5040252) 
